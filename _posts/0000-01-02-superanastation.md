@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Uno, dos, quadro
+Uno
 Use the left arrow to go back!
